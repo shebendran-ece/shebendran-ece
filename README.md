@@ -85,8 +85,6 @@ Java Developer | DSA Enthusiast | AI Developer
 ---
 ---
 
-# 🚀 Featured Projects
-
 <table>
 <tr>
 
