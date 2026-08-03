@@ -209,6 +209,17 @@ An AI-powered healthcare platform that helps users monitor and improve their hea
 Java • Spring Boot • React • MySQL • Gemini AI
 
 
+
+<h3 align="center">
+
+Thanks for visiting ❤️
+
+Let's build something amazing together 🚀
+
+</h3>
+
+
+
 ## 🏆 Achievements
 
 ☁ Google Cloud Community Member
@@ -255,10 +266,3 @@ Advanced Java
 
 ---
 
-<h3 align="center">
-
-Thanks for visiting ❤️
-
-Let's build something amazing together 🚀
-
-</h3>
