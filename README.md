@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-🎓 4td Year B.E. Electronics & Communication Engineering Student
+🎓 4th Year B.E. Electronics & Communication Engineering Student
 
 💻 Passionate about Java Development and Problem Solving
 
