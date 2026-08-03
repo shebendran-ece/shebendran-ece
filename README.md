@@ -84,6 +84,51 @@ Java Developer | DSA Enthusiast | AI Developer
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://ai-health-assistant-470079170475.asia-southeast1.run.app/)
 ---
+
+## 🏆 Achievements
+
+☁ Google Cloud Community Member
+
+🟢 NVIDIA Community Member
+
+💻 Amazon SDE Online Assessment Candidate
+
+🚀 Built AI Health Smart Assistant
+
+📚 Daily DSA Practice
+
+---
+
+## 📜 Certifications
+
+✔ Google Cloud
+
+✔ NVIDIA
+
+✔ Java
+
+✔ SQL
+
+✔ Generative AI
+
+---
+
+## 🌱 Currently Learning
+
+☕
+
+Advanced Java
+
+🌱 Spring Boot
+
+📚 Data Structures & Algorithms
+
+🏗 System Design
+
+☁ AWS
+
+🐳 Docker
+
 ---
 
 <table>
@@ -199,52 +244,6 @@ Let's build something amazing together 🚀
 
 </h3>
 ---
-
-## 🏆 Achievements
-
-☁ Google Cloud Community Member
-
-🟢 NVIDIA Community Member
-
-💻 Amazon SDE Online Assessment Candidate
-
-🚀 Built AI Health Smart Assistant
-
-📚 Daily DSA Practice
-
----
-
-## 📜 Certifications
-
-✔ Google Cloud
-
-✔ NVIDIA
-
-✔ Java
-
-✔ SQL
-
-✔ Generative AI
-
----
-
-## 🌱 Currently Learning
-
-☕
-
-Advanced Java
-
-🌱 Spring Boot
-
-📚 Data Structures & Algorithms
-
-🏗 System Design
-
-☁ AWS
-
-🐳 Docker
-
-
 
 
 
