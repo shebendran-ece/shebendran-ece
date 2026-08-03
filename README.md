@@ -76,16 +76,21 @@ Java Developer | DSA Enthusiast | AI Developer
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 ---
-<p align="center">
+# 🚀 Featured Projects
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=shebendran-ece&show_icons=true&theme=tokyonight&hide_border=true"/>
+## 🩺 AI Health Smart Assistant
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shebendran-ece&layout=compact&theme=tokyonight&hide_border=true"/>
+An AI-powered healthcare platform that helps users monitor and improve their health through intelligent recommendations.
 
-</p>
+### ✨ Features
 
-<p align="center">
+- 🤖 AI Chatbot
+- 🩺 Symptom Checker
+- 📊 BMI Calculator
+- 🥗 Diet Planner
+- 💊 Medicine Reminder
+- 📄 Health Report Analysis
 
-<img src="https://streak-stats.demolab.com?user=shebendran-ece&theme=tokyonight&hide_border=true"/>
+### 🛠 Tech Stack
 
-</p>
+Java • Spring Boot • React • MySQL • Gemini AI
