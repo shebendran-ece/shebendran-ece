@@ -91,6 +91,11 @@ An AI-powered healthcare platform that helps users monitor and improve their hea
 - 💊 Medicine Reminder
 - 📄 Health Report Analysis
 
-### 🛠 Tech Stack
+### 🛠 Technology Stack
 
 Java • Spring Boot • React • MySQL • Gemini AI
+### 🔗 Links
+
+[![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/shebendran-ece/AI-Health-Smart-Assistant)
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://ai-health-assistant-470079170475.asia-southeast1.run.app/)
