@@ -99,3 +99,110 @@ Java • Spring Boot • React • MySQL • Gemini AI
 [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/shebendran-ece/AI-Health-Smart-Assistant)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://ai-health-assistant-470079170475.asia-southeast1.run.app/)
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🩺 AI Health Smart Assistant
+
+An AI-powered healthcare platform that provides intelligent health assistance using modern web technologies and AI.
+
+### ✨ Features
+
+- 🤖 AI Chatbot
+- 🩺 Symptom Checker
+- 📊 BMI Calculator
+- 🥗 Diet Planner
+- 💊 Medicine Reminder
+- 📄 Health Report Analyzer
+
+### 🛠 Tech Stack
+
+`Java` `Spring Boot` `React` `MySQL` `Gemini AI`
+
+🔗 **Repository:** *(Add GitHub Link)*
+
+🌐 **Live Demo:** *(Add Vercel/Render Link)*
+
+</td>
+
+<td width="50%">
+
+## ☕ Java DSA Solutions
+
+A collection of optimized Java solutions for Data Structures & Algorithms with explanations.
+
+### 📚 Topics Covered
+
+- Arrays
+- Sliding Window
+- Binary Search
+- Two Pointers
+- HashMap
+- Prefix Sum
+- Dynamic Programming
+
+### 🛠 Tech Stack
+
+`Java`
+
+🔗 **Repository:** *(Create later)*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🗄 SQL Interview Prep
+
+Comprehensive SQL interview preparation repository.
+
+### 📚 Includes
+
+- Joins
+- Group By
+- Window Functions
+- CTE
+- Ranking Functions
+- Interview Questions
+
+### 🛠 Tech Stack
+
+`MySQL`
+
+🔗 **Repository:** *(Create later)*
+
+</td>
+
+<td width="50%">
+
+## 🌱 Spring Boot REST API
+
+REST API project built using Spring Boot.
+
+### Features
+
+- CRUD APIs
+- Authentication
+- MySQL Integration
+- REST Architecture
+
+### 🛠 Tech Stack
+
+`Spring Boot` `Java`
+
+🔗 **Repository:** *(Coming Soon)*
+
+</td>
+
+</tr>
+
+</table>
