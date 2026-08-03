@@ -152,9 +152,6 @@ An AI-powered healthcare platform that provides intelligent health assistance us
 ### 🛠 Tech Stack
 
 `Java` `Spring Boot` `React` `MySQL` `Gemini AI`
-🔗 **Repository:** *(https://github.com/shebendran-ece/AI-Health-Smart-Assistant)*
-
-🌐 **Live Demo:** *(https://ai-health-assistant-470079170475.asia-southeast1.run.app/)*
 
 </td>
 
