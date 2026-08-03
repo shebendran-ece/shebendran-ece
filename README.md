@@ -76,9 +76,6 @@ Java Developer | DSA Enthusiast | AI Developer
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 ---
-
-# 📊 GitHub Analytics
-
 <p align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=shebendran-ece&show_icons=true&theme=tokyonight&hide_border=true"/>
