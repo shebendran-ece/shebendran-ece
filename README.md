@@ -6,18 +6,6 @@
 <h3 align="center">
 Java Developer | DSA Enthusiast | AI Developer
 </h3>
-
-<p align="center">
-🚀 Building scalable applications with Java, Spring Boot, React & AI
-</p>
-
-<p align="center">
-🎯 Aspiring Software Development Engineer (SDE)
-</p>
-
----
-
-## 💫 About Me
 <p align="center">
 
 <a href="mailto:shebendran@gmail.com">
@@ -38,6 +26,17 @@ Java Developer | DSA Enthusiast | AI Developer
 
 </p>
 
+<p align="center">
+🚀 Building scalable applications with Java, Spring Boot, React & AI
+</p>
+
+<p align="center">
+🎯 Aspiring Software Development Engineer (SDE)
+</p>
+
+---
+
+## 💫 About Me
 
 🎓 4th Year B.E. Electronics & Communication Engineering Student
 
