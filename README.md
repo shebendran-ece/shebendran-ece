@@ -30,3 +30,22 @@ Java Developer | DSA Enthusiast | AI Developer
 🌱 Learning Spring Boot, System Design and Cloud Technologies
 
 🎯 Goal: Become a Software Development Engineer at a Product-Based Company
+<p align="center">
+
+<a href="mailto:shebendran@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shebendran-s-506724395/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/JcQnDRyLBg/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/shebendran">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
