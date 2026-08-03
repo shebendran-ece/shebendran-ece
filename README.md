@@ -37,6 +37,18 @@ Java Developer | DSA Enthusiast | AI Developer
 ---
 
 ## 💫 About Me
+
+🎓 4th Year B.E. Electronics & Communication Engineering Student
+
+💻 Passionate about Java Development and Problem Solving
+
+🧠 Consistently improving my Data Structures & Algorithms skills through LeetCode
+
+🤖 Currently building AI-powered real-world applications
+
+🌱 Learning Spring Boot, System Design and Cloud Technologies
+
+🎯 Goal: Become a Software Development Engineer at a Product-Based Company
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
@@ -63,15 +75,3 @@ Java Developer | DSA Enthusiast | AI Developer
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
-
-🎓 4th Year B.E. Electronics & Communication Engineering Student
-
-💻 Passionate about Java Development and Problem Solving
-
-🧠 Consistently improving my Data Structures & Algorithms skills through LeetCode
-
-🤖 Currently building AI-powered real-world applications
-
-🌱 Learning Spring Boot, System Design and Cloud Technologies
-
-🎯 Goal: Become a Software Development Engineer at a Product-Based Company
