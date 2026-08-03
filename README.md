@@ -49,7 +49,7 @@ Java Developer | DSA Enthusiast | AI Developer
 🌱 Learning Spring Boot, System Design and Cloud Technologies
 
 🎯 Goal: Become a Software Development Engineer at a Product-Based Company
-## 💻 Tech Stack
+## 💻 Technology Stack
 
 ### 👨‍💻 Languages
 <p>
