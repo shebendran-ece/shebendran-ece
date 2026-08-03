@@ -1,16 +1,27 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shebendran-ece/shebendran-ece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Shebendran S
 
-Here are some ideas to get you started:
+### Java Developer | DSA Enthusiast | AI Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building scalable applications with Java, Spring Boot, React & AI
+
+🎯 Aspiring Software Development Engineer (SDE)
+
+</div>
+
+---
+
+## 💫 About Me
+
+🎓 4td Year B.E. Electronics & Communication Engineering Student
+
+💻 Passionate about Java Development and Problem Solving
+
+🧠 Consistently improving my Data Structures & Algorithms skills through LeetCode
+
+🤖 Currently building AI-powered real-world applications
+
+🌱 Learning Spring Boot, System Design and Cloud Technologies
+
+🎯 Goal: Become a Software Development Engineer at a Product-Based Company
