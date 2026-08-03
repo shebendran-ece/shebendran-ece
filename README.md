@@ -75,6 +75,7 @@ Java Developer | DSA Enthusiast | AI Developer
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
+
 ---
 
 ### 🔗 Links
@@ -185,27 +186,19 @@ REST API project built using Spring Boot.
 </td>
 
 </tr>
+
+</table>
+
 ---
 
-# 🚀 Featured Projects
+<h3 align="center">
 
-## 🩺 AI Health Smart Assistant
+Thanks for visiting ❤️
 
-An AI-powered healthcare platform that helps users monitor and improve their health through intelligent recommendations.
+Let's build something amazing together 🚀
 
-### ✨ Features
-
-- 🤖 AI Chatbot
-- 🩺 Symptom Checker
-- 📊 BMI Calculator
-- 🥗 Diet Planner
-- 💊 Medicine Reminder
-- 📄 Health Report Analysis
-
-### 🛠 Technology Stack
-
-Java • Spring Boot • React • MySQL • Gemini AI
-
+</h3>
+---
 
 ## 🏆 Achievements
 
