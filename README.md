@@ -14,15 +14,6 @@ Java Developer | DSA Enthusiast | AI Developer
 <p align="center">
 🎯 Aspiring Software Development Engineer (SDE)
 </p>
-# 👋 Hi, I'm Shebendran S
-
-### Java Developer | DSA Enthusiast | AI Developer
-
-🚀 Building scalable applications with Java, Spring Boot, React & AI
-
-🎯 Aspiring Software Development Engineer (SDE)
-
-</div>
 
 ---
 
