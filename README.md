@@ -204,4 +204,58 @@ REST API project built using Spring Boot.
 </td>
 
 </tr>
+---
 
+## 🏆 Achievements
+
+☁ Google Cloud Community Member
+
+🟢 NVIDIA Community Member
+
+💻 Amazon SDE Online Assessment Candidate
+
+🚀 Built AI Health Smart Assistant
+
+📚 Daily DSA Practice
+
+---
+
+## 📜 Certifications
+
+✔ Google Cloud
+
+✔ NVIDIA
+
+✔ Java
+
+✔ SQL
+
+✔ Generative AI
+
+---
+
+## 🌱 Currently Learning
+
+☕
+
+Advanced Java
+
+🌱 Spring Boot
+
+📚 Data Structures & Algorithms
+
+🏗 System Design
+
+☁ AWS
+
+🐳 Docker
+
+---
+
+<h3 align="center">
+
+Thanks for visiting ❤️
+
+Let's build something amazing together 🚀
+
+</h3>
