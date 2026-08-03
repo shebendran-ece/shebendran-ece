@@ -76,54 +76,13 @@ Java Developer | DSA Enthusiast | AI Developer
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 ---
-# 🚀 Featured Projects
 
-## 🩺 AI Health Smart Assistant
-
-An AI-powered healthcare platform that helps users monitor and improve their health through intelligent recommendations.
-
-### ✨ Features
-
-- 🤖 AI Chatbot
-- 🩺 Symptom Checker
-- 📊 BMI Calculator
-- 🥗 Diet Planner
-- 💊 Medicine Reminder
-- 📄 Health Report Analysis
-
-### 🛠 Technology Stack
-
-Java • Spring Boot • React • MySQL • Gemini AI
 ### 🔗 Links
 
 [![Repository](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)](https://github.com/shebendran-ece/AI-Health-Smart-Assistant)
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge&logo=vercel)](https://ai-health-assistant-470079170475.asia-southeast1.run.app/)
 ---
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
-## 🩺 AI Health Smart Assistant
-
-An AI-powered healthcare platform that provides intelligent health assistance using modern web technologies and AI.
-
-### ✨ Features
-
-- 🤖 AI Chatbot
-- 🩺 Symptom Checker
-- 📊 BMI Calculator
-- 🥗 Diet Planner
-- 💊 Medicine Reminder
-- 📄 Health Report Analyzer
-
-### 🛠 Tech Stack
-
-`Java` `Spring Boot` `React` `MySQL` `Gemini AI`
 
 🔗 **Repository:** *(Add GitHub Link)*
 
@@ -205,6 +164,25 @@ REST API project built using Spring Boot.
 
 </tr>
 ---
+
+# 🚀 Featured Projects
+
+## 🩺 AI Health Smart Assistant
+
+An AI-powered healthcare platform that helps users monitor and improve their health through intelligent recommendations.
+
+### ✨ Features
+
+- 🤖 AI Chatbot
+- 🩺 Symptom Checker
+- 📊 BMI Calculator
+- 🥗 Diet Planner
+- 💊 Medicine Reminder
+- 📄 Health Report Analysis
+
+### 🛠 Technology Stack
+
+Java • Spring Boot • React • MySQL • Gemini AI
 
 
 ## 🏆 Achievements
